@@ -1,0 +1,6 @@
+
+Sales Analysis Report
+---------------------
+Total Sales   : 9900
+Average Sales : 1237.5
+Highest Sales : 1800
